@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Chinigura chal",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc aliquam nulla dui, sit amet mollis enim eleifend nec. Sed laoreet eros vitae ipsum scelerisque bibendum. Praesent nunc massa, imperdiet quis convallis quis, feugiat sit amet nulla. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ultrices at turpis a elementum. Pellentesque nisi dolor, accumsan eget diam eget, scelerisque eleifend velit. Praesent at laoreet ante. Phasellus non lectus eget nulla vestibulum dictum. Pellentesque venenatis ex accumsan, lacinia risus sed, rutrum lacus. Mauris vestibulum placerat enim, a facilisis turpis varius hendrerit. Praesent sit amet libero nisl. Aliquam gravida nisi sed ligula condimentum pharetra.",
+    "unit": "kg",
+    "imgURLs": [
+      "https://www.ucl.ac.uk/rice/sites/rice/files/styles/small_image/public/orissa_dry_upland_farming_1.jpg?itok=YsdeKe1Z",
+      "https://www.ucl.ac.uk/rice/sites/rice/files/styles/small_image/public/orissa_dry_upland_farming_1.jpg?itok=YsdeKe1Z"
+    ],
+    "category": {
+        "name": "rice",
+        "id": "63933a5eca9ad69c1f6d05e0"
+      },
+    "brand": {
+      "name": "pran ltd.",
+      "id": "6392d003f80c3470f38c6f98"
+    }
+  },
+  {
+    "name": "Rupchada oil",
+    "description": "Praesent nunc massa, imperdiet quis convallis quis, feugiat sit amet nulla. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ultrices at turpis a elementum. Pellentesque nisi dolor, accumsan eget diam eget, scelerisque eleifend velit. Praesent at laoreet ante. Phasellus non lectus eget nulla vestibulum dictum. Pellentesque venenatis ex accumsan, lacinia risus sed, rutrum lacus. Mauris vestibulum placerat enim, a facilisis turpis varius hendrerit. Praesent sit amet libero nisl. Aliquam gravida nisi sed ligula condimentum pharetra.",
+    "unit": "litre",
+    "imgURLs": [
+      "https://www.ucl.ac.uk/rice/sites/rice/files/styles/small_image/public/orissa_dry_upland_farming_1.jpg?itok=YsdeKe1Z",
+      "https://www.ucl.ac.uk/rice/sites/rice/files/styles/small_image/public/orissa_dry_upland_farming_1.jpg?itok=YsdeKe1Z"
+    ],
+    "category": {
+      "name": "oil",
+      "id": "6392e2fb130aa54a27f8d576"
+    },
+    "brand": {
+      "name": "pran ltd.",
+      "id": "6392d003f80c3470f38c6f98"
+    }
+  },
+  {
+    "name": "fresh salt",
+    "description": "nunc massa, imperdiet quis convallis quis, feugiat sit amet nulla. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ultrices at turpis a elementum. Pellentesque nisi dolor, accumsan eget diam eget, scelerisque eleifend velit. Praesent at laoreet ante. Phasellus non lectus eget nulla vestibulum dictum. Pellentesque venenatis ex accumsan, lacinia risus sed, rutrum lacus. Mauris vestibulum placerat enim, a facilisis turpis varius hendrerit. Praesent sit amet libero nisl. Aliquam gravida nisi sed ligula condimentum pharetra.",
+    "unit": "kg",
+    "imgURLs": [
+      "https://www.ucl.ac.uk/rice/sites/rice/files/styles/small_image/public/orissa_dry_upland_farming_1.jpg?itok=YsdeKe1Z",
+      "https://www.ucl.ac.uk/rice/sites/rice/files/styles/small_image/public/orissa_dry_upland_farming_1.jpg?itok=YsdeKe1Z"
+    ],
+    "category": {
+      "name": "salt",
+      "id": "6393371a14fcbf605958ead7"
+    },
+    "brand": {
+      "name": "fresh",
+      "id": "6392cac4db4254a843b510b5"
+    }
+  },
+  {
+    "name": "Radhuni masala",
+    "description": "nunc massa, imperdiet quis convallis quis, feugiat sit amet nulla. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ultrices at turpis a elementum. Pellentesque nisi dolor, accumsan eget diam eget, scelerisque eleifend velit. Praesent at laoreet ante. Phasellus non lectus eget nulla vestibulum dictum. Pellentesque venenatis ex accumsan, lacinia risus sed, rutrum lacus. Mauris vestibulum placerat enim, a facilisis turpis varius hendrerit. Praesent sit amet libero nisl. Aliquam gravida nisi sed ligula condimentum pharetra.",
+    "unit": "kg",
+    "imgURLs": [
+      "https://www.ucl.ac.uk/rice/sites/rice/files/styles/small_image/public/orissa_dry_upland_farming_1.jpg?itok=YsdeKe1Z",
+      "https://www.ucl.ac.uk/rice/sites/rice/files/styles/small_image/public/orissa_dry_upland_farming_1.jpg?itok=YsdeKe1Z"
+    ],
+    "category":{
+        "name" : "masala",
+        "id" : "63933b794f0a9750da0f5a7f"
+    },
+    "brand": {
+      "name": "pran ltd.",
+      "id": "6392d003f80c3470f38c6f98"
+    }
+  },
+  {
+    "name": "fresh water",
+    "description": "nunc massa, imperdiet quis convallis quis, feugiat sit amet nulla. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ultrices at turpis a elementum. Pellentesque nisi dolor, accumsan eget diam eget, scelerisque eleifend velit. Praesent at laoreet ante. Phasellus non lectus eget nulla vestibulum dictum. Pellentesque venenatis ex accumsan, lacinia risus sed, rutrum lacus. Mauris vestibulum placerat enim, a facilisis turpis varius hendrerit. Praesent sit amet libero nisl. Aliquam gravida nisi sed ligula condimentum pharetra.",
+    "unit": "kg",
+    "imgURLs": [
+      "https://www.ucl.ac.uk/rice/sites/rice/files/styles/small_image/public/orissa_dry_upland_farming_1.jpg?itok=YsdeKe1Z",
+      "https://www.ucl.ac.uk/rice/sites/rice/files/styles/small_image/public/orissa_dry_upland_farming_1.jpg?itok=YsdeKe1Z"
+    ],
+    "category": {
+        "name" : "drink",
+        "id" : "63933be9026c985ed1a52917"
+    },
+    "brand": {
+      "name": "fresh",
+      "id": "6392cac4db4254a843b510b5"
+    }
+  }
+]
